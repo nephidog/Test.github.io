@@ -1,14 +1,14 @@
 ## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/nephidog/Test.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Test表格
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | 第三欄        | 靠右對齊      | $1600 |
 | 第二欄        | 置中對齊      |   $12 |
 | 斑馬條紋      | 是整齊的      |    $1 |
-You can use the [editor on GitHub](https://github.com/nephidog/Test.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
