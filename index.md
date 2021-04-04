@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Test表格
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 第三欄        | 靠右對齊      | $1600 |
+| 第二欄        | 置中對齊      |   $12 |
+| 斑馬條紋      | 是整齊的      |    $1 |
